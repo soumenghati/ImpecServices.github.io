@@ -1,0 +1,125 @@
+
+<! DOCTYPE html PUBLIC "-//HTML 4.01>
+<html>
+	<head>
+		<link rel="stylesheet" type"text/css" href="C:\Users\09445279\Documents\Soumen\Study Material\Website build tutorial\edustarstyle.css">
+		
+		
+		
+	</head>
+		
+				
+	<body>
+			
+		<center><h1>eduProxy L2 Support<br /> Knowledge Database 
+				<h2>Knowledge Database</h2>
+				<h3>Interactive Console</h3>
+		
+		<form action=mail2.php" method="post">
+		
+			<h3><input type="radio" name="email" value="Home" />Squid
+			<input type="radio" name="email" value="Home" />Samba
+			<input type="radio" name="email" value="Home" />MySQL
+			<input type="radio" name="email" value="Work" />AD services</h3><br />
+		</h1></center>
+		
+		<h3>    
+				Wikipedia resources<br />
+				<a href="https://en.wikipedia.org/wiki/Squid" target="_blank">Squid Tutorials</a>
+				<a href="https://en.wikipedia.org/wiki/Samba" target="_blank">Samba Tutorials</a>				
+				<a href="https://en.wikipedia.org/wiki/MySQL" target="_blank">MySQL Tutorials</a>	
+				<a href="https://en.wikipedia.org/wiki/Active_Directory" target="_blank">AD Tutorials</a>
+		
+		</h3>	
+			
+		<h4>	<input type="checkbox" name="checkboxinput" value="Good Checkbox" />Select All
+				<input type="checkbox" name="checkboxinput" value="Bad Checkbox" />Select None 
+		
+		</h4> <br />
+			
+			<b>Send message to this email</b><br />
+			
+			<input type="text" name="email" size=40><br />
+			<textarea cols=40 rows=10 name="message">Default text</textarea><br />
+			
+			<select name="selectinput">
+				<option value="niceselect">I like it</option>
+				<option value="badselect">I don't like it</option>
+			</select>	
+			
+		<abbr title="As Soon as possible">ASAP</abbr>
+		<acronym title="As Soon as possible">ASAP</acronym> <br />
+			
+			<input type="hidden" name="Submitted" value="True" /><br />
+		<input type="submit" value="Send" />
+		
+		</form>
+		
+		
+						
+		<center><img src="C:\Users\09445279\Documents\Soumen\Study Material\Website build tutorial\AirParrot Error.png" alt="Image" height="625" width="1000" /></center>
+		
+		<h4>Linux Server</h4>
+		<h5>Centos Server</h5>
+		<h6>Web Server</h6>
+		
+		
+		
+		
+		
+		<b>Bold</b> <br />
+		<big>Big</big>
+		
+		<blockquote>Indent the text and style</blockquote><br />
+		
+		<center>Center me please
+		<em>I like Italic</em>
+		
+		<p>I am a paragraph</p>
+		
+		<q>I am a quote</q></center>
+		
+		<dl> 
+			<dt>Bicycle</dt>
+			<dd>Has 2 wheels</dd>
+		</dl>
+
+		<ol>
+			<li>Car</li>
+			<li>Truck</li>
+		</ol>
+
+		<ul>
+			<li>Car</li>
+			<li>Truck</li>
+		</ul>
+
+
+		<a href="http://msn.com" target="_blank">Great website</a>	
+		
+		<table summary="This is a table">
+		
+			<caption>
+				Things to do
+			</caption>
+
+			<tr>
+
+				<th>Sat</th>
+				<th>Sun</th>
+			</tr>
+
+			<tr>
+				<th>Rode bike</th>
+				<th>Cooking</th>
+			</tr>
+
+		</table>
+
+
+		
+			
+			
+		
+		
+		
